@@ -20,3 +20,43 @@
 .price {
     color:#FF136F ;
 }
+.cat1, .cat2, .cat3
+{
+    border-radius: 10px;
+    padding: 10px 30px;
+
+}
+.cat1{
+    background-color: goldenrod ;
+   
+}
+.cat2{
+    background-color: red;
+   
+}
+.cat3{
+    background-color:blueviolet;
+
+}
+.categoris h1
+{
+    color:white
+}
+.categoris img
+{
+    width: 100px;
+}
+.card
+{
+ border: none;
+ box-shadow: 5px 5px 10px lightslategray;
+
+}
+#Contact-Us
+{
+    height: 300px;
+    padding: 80px;
+}
+footer{
+    text-align: center;
+}
